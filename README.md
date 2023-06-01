@@ -44,5 +44,9 @@ To run the script, simply open a terminal and type:
 prankstershot
 ```
 
+After initiating the script, you will have a brief window of 5 seconds to minimize the terminal and make your desktop look less suspicious before walking away from your laptop. Remember to set a password on your screensaver; without it, the prank won't make as much sense.
+
+The script will then wait for any keyboard or mouse activity. When such activity is detected, it will start taking pictures with the webcam and save them to the designated folder. The script will stop after capturing a predetermined number of pictures and will lock the screen, requiring a password to unlock.
+
 ## Caution
 Remember, this is intended for fun and should be used responsibly. Always respect people's privacy.
