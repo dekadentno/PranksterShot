@@ -14,7 +14,7 @@ You'll need Python3 installed and pip, the Python package installer. This script
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your_username/PranksterShot.git
+git clone https://github.com/dekadentno/PranksterShot.git
 ```
 
 2. Go into the project directory:
